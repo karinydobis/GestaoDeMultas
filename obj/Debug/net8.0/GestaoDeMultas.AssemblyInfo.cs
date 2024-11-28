@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoDeMultas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c585c7e631bc51ec6c8bd720daed92024a7a06b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoDeMultas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoDeMultas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

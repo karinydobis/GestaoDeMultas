@@ -1,4 +1,5 @@
-﻿
+﻿using GestaoDeMultas.entidades;
+
 Veiculos v1 = new Veiculos();
 ProprietariosPf pf = new ProprietariosPf();
 

@@ -1,4 +1,8 @@
-﻿public class Veiculos
+﻿using System;
+
+namespace GestaoDeMultas.entidades
+{
+public class Veiculos
 {
     public int _idVeiculo;
     private string _chassi;
@@ -14,15 +18,15 @@
 
     public void SetChassi(string chassi)
     {
-        if(chassi.Length == 17)
+        if (chassi.Length == 17)
         {
-           _chassi = chassi;
+            _chassi = chassi;
         }
         else
         {
             throw new Exception("CHASSI INVÁLIDO");
         }
-       
+
     }
 
     public string GetChassi()
@@ -30,3 +34,6 @@
         return _chassi;
     }
 }
+}
+
+
